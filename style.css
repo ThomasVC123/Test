@@ -37,7 +37,7 @@ h1 {
   }
   
   body {
-    background-image: url("../Images/background5.png");
+    background-image: url("background5.png");
   }
   #main1 {
     display: flex;
